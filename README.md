@@ -39,6 +39,7 @@ Das Brute-Forcen privater Schlüssel erfordert viel Zeit und Rechenleistung. Der
 2. Neueste Version öffnen: [CryptoMar Releases](https://github.com/HexaMar/HexaMar/releases/tag/v1.1.0)
 3. Datei `CryptoMarInstaller.exe` herunterladen.
 4. Installationsanweisungen befolgen.
+5. Update (24.05.2025): Der Speicherverbrauch wurde optimiert. Zur schnellen Suche und effizienten Speichernutzung wird nun ein Bloom-Filter verwendet, kombiniert mit einer Saldenprüfung zur Vermeidung von Fehlalarmen. Um die Filterdatei zu erstellen, starten Sie das Programm als Administrator.
 
 ### 🍎 Für macOS
 
